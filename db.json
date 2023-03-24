@@ -1,0 +1,55 @@
+{
+  "myProducts": [
+    {
+      "id": 0,
+      "name": "computadora",
+      "price": 20,
+      "description": "funciona bien",
+      "photo": "url"
+    },
+    {
+      "id": 2,
+      "name": "taladro",
+      "price": 30,
+      "description": "test ",
+      "photo": "url"
+    },
+    {
+      "name": "manguera",
+      "price": "30",
+      "description": "si",
+      "negotiation": "Negotiation",
+      "id": 3
+    },
+    {
+      "name": "Botella",
+      "price": "10",
+      "description": "Lista ",
+      "negotiation": "Negotiation",
+      "id": 4
+    },
+    {
+      "name": "caja fuerte",
+      "price": "100",
+      "description": "media media",
+      "negotiation": "Negotiation",
+      "id": 5
+    }
+  ],
+  "publicProducts": [
+    {
+      "id": 3,
+      "name": "mouse",
+      "price": 20,
+      "description": "test ",
+      "photo": "url "
+    },
+    {
+      "id": 4,
+      "name": "cargador",
+      "price": 20,
+      "description ": "test ",
+      "photo": "url "
+    }
+  ]
+}
